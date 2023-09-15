@@ -1,4 +1,4 @@
 requests
 ecdsa
 base58
-pycrypto
+pycryptodomex
